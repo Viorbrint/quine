@@ -1,0 +1,1 @@
+var x = "console.log('var x = {1}{0}{1};Console.WriteLine(x, x.Replace(Convert.ToString((char)39), ((char)92).ToString() + ((char)39).ToString()), (char)34);')";Console.WriteLine(x, x.Replace(Convert.ToString((char)39), ((char)92).ToString() + ((char)39).ToString()), (char)34);
